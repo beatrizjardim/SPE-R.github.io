@@ -1,4 +1,5 @@
-### R code from vignette source '/home/travis/build/SPE-R/SPE/build/rates-rrrd-s.rnw'
+### R code from vignette source 'rates-rrrd-s.rnw'
+### Encoding: ISO8859-1
 
 ###################################################
 ### code chunk number 1: rates-rrrd-s.rnw:47-49
