@@ -55,4 +55,9 @@ install.package(c("checkpoint", "cmprsk", "cowplot", "cranly", "dplyr", "Epi", "
 
 
 ---
+This page have been automatically generated. Do not modify
+directly. 
+Please edit [pracs/prerequest.Rmd](https://github.com/SPE-R/SPE/blob/master/pracs/prerequest.Rmd) file from [SPE repository](https://github.com/SPE-R/SPE)
+
+---
 [back to mainpage](https://spe-r.github.io/)
